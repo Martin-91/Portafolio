@@ -1,0 +1,11 @@
+
+.copyright{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Chakra Petch', sans-serif;
+    color: #fbfbfb;
+    font-size: 20px;
+}
